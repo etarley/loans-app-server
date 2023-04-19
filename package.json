@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@trpc/client": "^10.20.0",
+    "@trpc/server": "^10.20.0"
+  },
+  "devDependencies": {
+    "prisma": "^4.13.0"
+  }
+}
